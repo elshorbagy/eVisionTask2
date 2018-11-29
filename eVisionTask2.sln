@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eVisionTask2", "eVisionTask2\eVisionTask2.csproj", "{3786903A-287B-4788-B0DC-F4F9BB481996}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eVisionTask2Tests", "eVisionTask2Tests\eVisionTask2Tests.csproj", "{8968E693-DE2E-4D8A-8987-D26FE2BC526B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3786903A-287B-4788-B0DC-F4F9BB481996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3786903A-287B-4788-B0DC-F4F9BB481996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3786903A-287B-4788-B0DC-F4F9BB481996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8968E693-DE2E-4D8A-8987-D26FE2BC526B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8968E693-DE2E-4D8A-8987-D26FE2BC526B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8968E693-DE2E-4D8A-8987-D26FE2BC526B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8968E693-DE2E-4D8A-8987-D26FE2BC526B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
